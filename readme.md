@@ -2,4 +2,4 @@
 
 La historia de un hacker excepcional.
 
-**Sergio Suárez**
+**Sergio Suárez**, La hemos liado
