@@ -2,4 +2,4 @@
 
 La historia de un hacker excepcional.
 
-**Sergio Suárez**, La hemos liado
+**Sergio Suárez**, Git lover. La hemos liado
